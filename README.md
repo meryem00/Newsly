@@ -1,5 +1,5 @@
 # Newsly
-Is news app that build using android and firebase with sqlite as local database for our moblie appplication project
+It' as news app that's built using android and firebase with sqlite as local database for our moblie appplication project
 
 ## 🎯 Our feature 
 * User profile
@@ -65,7 +65,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@meryem00](https://github.com/meryem00)
   
-👤 **Mekdedi**
+👤 **Mekedi**
 
 - GitHub: [@mekedi-mkt](https://github.com/mekedi-mkt)
 
