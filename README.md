@@ -1,11 +1,11 @@
 # Newsly
-It' as news app that's built using android and firebase with sqlite as local database for our moblie appplication project
+It' a news app that's built using android and firebase with sqlite as local database for our moblie appplication project
 
 ## 🎯 Our feature 
 * User profile
 * User Auth with firebase 🔥
 * Fetch the latest news 📰
-* Save you fav article
+* Save your fav article
 
 
 ## 🏋🏽‍♂️ Resource we used
@@ -17,7 +17,7 @@ It' as news app that's built using android and firebase with sqlite as local dat
 
 ## Getting Started
 
-**Follow the following setps to run project in local machine**
+**Follow the following steps to run the project in local machine**
 
 
 To get a local copy up and running follow these simple example steps.
@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 - open the clone project in android studio
 - Run the project
 
-### News app read to use
+### News app ready to use
 ![Alt Text](https://media.giphy.com/media/laUY2MuoktHPy/giphy.gif)
 
 
@@ -80,7 +80,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 ## Show your support
-- if you want to help us get job
+- if you want to help us get a job
   
 ![Alt Text](https://media.giphy.com/media/GTO6zNnYr5Wv0p8gAT/giphy.gif)
 
